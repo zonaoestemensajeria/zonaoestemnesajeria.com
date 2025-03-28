@@ -3,15 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   ZONA OESTE MENSAJERIA
-    <style>.centrar-texto {text-align: center;}
-    </style>
+    <title>ZONA OESTE MENSAJERÍA</title> <!-- Título del sitio web -->
 </head>
 <body>
+    <img src="Zoom-Logo.png" alt="Logo de Zona Oeste Mensajería">
     <h2 class="centrar-texto">Bienvenido a nuestro portal Web</h2>
 </body>
 </html>
-
 Servicio de Moto mensajería
 y Mini fletes en Zona Oeste - Argentina.
 
